@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.contenedor {
+ text-align: center;
+ background-color:#FF6961;
+ color: white;
+ font-size: 20px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.fin{
+    text-align: center;
+    background-color:#6C4675;
+    color: white;
+    font-size: 20px;
+       margin: auto;
+       overflow: hidden;
+}
